@@ -1,5 +1,5 @@
 # depth_eigen
-An implementation of https://arxiv.org/abs/1406.2283 in PyTorch.
+An implementation of [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://arxiv.org/abs/1406.2283) by David Eigen et al. in PyTorch.
 
 The paper firstly proposed a coarse-fine convolutional deep neural network approach to estimate depth from a single image.
 
